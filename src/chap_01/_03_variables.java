@@ -2,7 +2,7 @@ package chap_01;
 
 public class _03_variables {
     public static void main(String[] args) {
-        String name = "이기홍"; // name이라는 문자열이 선언된 것.
+        String name = "이기홍"; // name 이라는 문자열이 선언된 것.
         int hour = 15;
 
         System.out.println( name + "님, 배송이 시작됩니다. " + hour + "시에 방문 예정입니다.");
